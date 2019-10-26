@@ -1,0 +1,11 @@
+// CSS image replacement
+@mixin text-hide($ignore-warning: false) {
+  // stylelint-disable-next-line font-family-no-missing-generic-family-keyword
+  border: 0;
+  font: 0/0 a;
+  text-shadow: none;
+  color: transparent;
+  background-color: transparent;
+
+  @include deprecate("`text-hide()`", "v4.1.0", "v5", $ignore-warning);
+}

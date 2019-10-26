@@ -1,0 +1,23 @@
+{
+  "name": "@mohammadyazdian/bootstrap-v4-rtl",
+  "version": "1.0.0",
+  "description": "Right To Left edition of bootstrap Version 4.x.x for Persian and Arabic languages.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadYazdian/bootstrap-v4-rtl.git"
+  },
+  "keywords": [
+    "bootstrap4-rtl",
+    "bootstrap4.3-rtl",
+    "bootstrap4.3.1-rtl"
+  ],
+  "author": "Mohammad Yazdian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammadYazdian/bootstrap-v4-rtl/issues"
+  },
+  "homepage": "https://github.com/MohammadYazdian/bootstrap-v4-rtl#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
